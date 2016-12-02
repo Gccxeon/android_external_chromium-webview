@@ -4,9 +4,7 @@ the compiled WebView is patched for compatibility with older Broadcom GPUs.
 The patches can be found in the "patches" directory of this repository.
 
 The prebuilt libwebviewchromium.so included in these APKs is built from Chromium
-release tag 55.0.2863.2.
-
-Build with java-8-openjdk
+release tag 57.0.2939.0
 
 args.gn
 ```
